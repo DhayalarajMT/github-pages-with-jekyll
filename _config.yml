@@ -1,4 +1,8 @@
-title: LEARNING GITHUB PAGES
+---
+title: "title"
+date: 2020-08-15
+---
+#title: LEARNING GITHUB PAGES
 author: DHAYALARAJ
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
